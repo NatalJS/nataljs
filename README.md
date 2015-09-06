@@ -1,5 +1,5 @@
 #NATAL.JS
-_Javascript UserGroup Natal_
+[_Javascript UserGroup Natal_](http://nataljs.github.io)
 
 NatalJS é um grupo em Natal para desenvolvedores (amadores, entusiastas e gurus) que reúnem-se a cada duas semanas para discutir sobre JavaScript. Os encontros podem ter seu local alterado, porém sempre com o mesmo objetivo.
 
