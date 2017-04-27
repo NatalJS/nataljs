@@ -8,6 +8,10 @@ Ajudar os programadores de Natal a obter um melhor conhecimento de programação
 Para aproximar programadores locais e internacionais e grupos de instituições acadêmicas distintas interessados na mesma área.
 Para organizar encontros, conferências e até contribuir com projetos open-source relacionados aos estudos.
 
+### PROJETOS
+
+Se você tem alguma ideia e deseja mais contribuidores para ajudar a tornar sua ideia real. Você pode cadastra-las na lista [icebox](https://github.com/NatalJS/nataljs/blob/master/projects.md) para que pessoas do grupo apoiem sua ideia.
+
 ### COMO SUPORTAR
 
 * Junte-se a nós (Facebook, Google Groups, Google Plus);
