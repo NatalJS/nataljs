@@ -14,7 +14,7 @@ If you have any idea and want more contributors to help you turn it real, you ca
 
 ## How to support us
 
-* Join un (Facebook, Google Groups, Google Plus);
+* Join us (Facebook, Google Groups, Google Plus);
 * Come to next meetup;
 * Writting blog posts (with #nataljs hashtag);
 * Propagate us.
