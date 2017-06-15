@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NatalJS/nataljs/blob/master/logo.png?raw=true" width="150" />
+</p>
+
 # NATAL.JS
 
 NatalJS é um grupo em Natal para desenvolvedores (amadores, entusiastas e gurus) que reúnem-se para discutir sobre JavaScript. Os encontros podem ter seu local alterado, porém sempre com o mesmo objetivo.
